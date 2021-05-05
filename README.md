@@ -1,3 +1,8 @@
+# Important
+
+The scripts expect the datasource in <i>data/household_power_consumption.txt</i> which I won't upload because of the size.
+
+
 ## Introduction
 
 This assignment uses data from
